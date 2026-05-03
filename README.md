@@ -15,7 +15,8 @@ I run **[AgileAIDev.com](https://AgileAIDev.com)**, where I offer training works
 * **AI-Enhanced Scrum Training**: Teaching teams how to integrate AI tools into Scrum workflows while maintaining quality and discipline
 * **Test-First AI Development**: TDD/ATDD patterns adapted for AI-assisted coding
 * **AI Tools for Developers**: Building practical applications like AI Architect (RAG-powered documentation automation), RAG Scraper, and PromptDatabase
-* **Scrum Certification Courses**: CSM, CSPO, CSD, CSP-SM, CSP-PO, A-CSM, and A-CSPO workshops
+* **Scrum Allinance Certification Courses**: CSM, CSPO and CSD workshops.
+* **Scrum Alliance Microcredentials**: AI for ScrumMasters, AI for Scrum Product Owners, Get Started with Prompt Engineering, Scrum Essentials and Lean Software Development.
 * **Custom Training & Consulting**: Helping enterprises adopt AI-enhanced development practices
 * **Multi-language Development**: C#, .NET, Python, C++, Java - bringing decades of hands-on coding to every workshop
 
