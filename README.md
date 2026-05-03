@@ -4,7 +4,7 @@
 
 I teach developers and teams how to build better software faster using AI-enhanced Scrum methodology, Test-Driven Development, and modern AI tools.
 
-With over 30 years in software development and nearly 20 years teaching Scrum, I'm now focused on helping development teams integrate AI into their workflows without losing the discipline and quality that make great software.
+With over 30 years in software development and over 20 years teaching Scrum, I'm now focused on helping development teams integrate AI into their workflows without losing the discipline and quality that make great software.
 
 Most of my work is practical: real training workshops, tested patterns, and working examples for **AI-Enhanced Scrum**, **Test-First AI Development**, and **AI-powered automation tools** that help teams ship quality code faster.
 
